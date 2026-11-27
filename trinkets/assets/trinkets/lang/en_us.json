@@ -14,5 +14,20 @@
   "item.trinkets.slot_legs_quiver": "Quiver",
   "item.trinkets.slot_feet_shoes": "Shoes",
   "item.trinkets.slot_charm_charm": "Charm",
-  "key.trinkets.open": "Open Trinkets"
+  "key.trinkets.open": "Open Trinkets",
+  "trinkets.slot.head.face": "Face",
+  "trinkets.slot.head.hat": "Hat",
+  "trinkets.slot.chest.necklace": "Necklace",
+  "trinkets.slot.chest.back": "Back",
+  "trinkets.slot.chest.cape": "Cape",
+  "trinkets.slot.chest.charm": "Charm",
+  "trinkets.slot.hand.glove": "Glove",
+  "trinkets.slot.hand.ring": "Ring",
+  "trinkets.slot.offhand.ring": "Ring",
+  "trinkets.slot.legs.belt": "Belt",
+  "trinkets.slot.legs.lantern": "Wearable Lantern",
+  "trinkets.slot.legs.key": "Key",
+  "trinkets.slot.legs.quiver": "Quiver",
+  "trinkets.slot.feet.shoes": "Shoes",
+  "trinkets.slot.charm.charm": "Charm"
 }

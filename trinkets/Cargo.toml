@@ -1,6 +1,6 @@
 [package]
 name = "mod-trinkets"
-version = "0.5.3"
+version = "0.6.0"
 edition = "2024"
 license = "MIT"
 description = "Trinkets for Sunrise: the player's extra equipment slots, in a menu on G"

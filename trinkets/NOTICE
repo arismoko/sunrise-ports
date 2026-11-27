@@ -5,5 +5,5 @@ Original source: https://github.com/emilyploszaj/trinkets
 Original licence: MIT
 
 Ported to Minecraft 26.3 by lavoide, with the rules re-implemented in Rust, and to Sunrise by arismoko, on Sunrise's
-typed mod API (no game patches, no Java code). The slot pictures, models and language file are carried over from the
-original jar. This port is distributed under the same licence as the original (MIT); the licence text is in LICENSE.
+typed mod API (no game patches, no Java code). The slot pictures, models and language file, and the inventory popup frame and empty-slot icons, are carried over from the
+original. This port is distributed under the same licence as the original (MIT); the licence text is in LICENSE.

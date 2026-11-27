@@ -1,8 +1,8 @@
 # Trinkets for Sunrise: native code in src/, the slot placeholder items in data/, pictures and text in assets/.
 id = "trinkets"
 name = "Trinkets"
-version = "0.5.3"
-description = "Extra equipment slots for trinkets, worn from a menu on G."
+version = "0.6.0"
+description = "Extra equipment slots for trinkets: they pop out of the armour and offhand slots of your inventory screen, and a menu on G."
 authors = ["Emi", "C4", "lavoide", "arismoko"]
 license = "MIT"
 credits = "Ported to Minecraft 26.3 by lavoide, and to Sunrise by arismoko."
